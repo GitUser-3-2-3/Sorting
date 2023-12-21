@@ -1,3 +1,5 @@
+// if range is [0 - N], every element will be at: index = value
+// if range is [1 - N], every element will be at: index = value - 1; 
 import java.util.Arrays;
 
 public class CyclicSort {
